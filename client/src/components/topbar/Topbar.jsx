@@ -9,7 +9,7 @@ export default function Topbar() {
         <span className="logo">Socially</span>
       </div>
       <div className="topbarCenter">
-        <div className="searchBar">
+        <div className="searchbar">
           <Search/>
           <input placeholder="Search for friends posts or videos" className="searchInput" />
         </div>
