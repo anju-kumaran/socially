@@ -7,3 +7,14 @@
   position: sticky;
   top: 0;
 }
+
+.topbarLeft {
+  flex: 3;
+}
+.topbarCenter {
+  flex: 5;
+}
+.topbarRight {
+  flex: 4;
+}
+
