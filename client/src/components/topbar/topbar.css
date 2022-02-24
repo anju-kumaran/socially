@@ -18,6 +18,13 @@
   flex: 4;
 }
 
+.logo {
+  font-size: 24px;
+  margin-left: 20px;
+  font-weight: bold;
+  color: white;
+}
+
 .topbarImg {
   width: 32px;
   height: 32px;
