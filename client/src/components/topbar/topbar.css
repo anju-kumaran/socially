@@ -33,6 +33,11 @@
   align-items: center;
 }
 
+.searchIcon {
+  font-size: 20px !important;
+  margin-left: 10px;
+}
+
 .topbarRight {
   flex: 4;
 }
