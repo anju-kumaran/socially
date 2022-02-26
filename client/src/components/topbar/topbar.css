@@ -61,6 +61,10 @@
   cursor: pointer;
 }
 
+.topbarIcons {
+  display: flex;
+}
+
 .topbarImg {
   width: 32px;
   height: 32px;
