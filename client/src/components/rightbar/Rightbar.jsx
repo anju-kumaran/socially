@@ -3,7 +3,7 @@ import './rightbar.css'
 
 export default function rightbar() {
   return (
-    <div>
+    <div className='rightbar'>
      This is the Rightbar 
     </div>
   )
