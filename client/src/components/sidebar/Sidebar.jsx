@@ -1,10 +1,17 @@
 import React from 'react';
 import './sidebar.css';
+import {RssFeed} from '@material-ui/icons';
 
 export default function Sidebar() {
   return (
     <div className='sidebar'>
-      Sidebar here
+      <div className="sidebarWrapper">
+        <ul className='sidebarList'>
+          <li className="sidebarListItem">
+            <RssFeed/>
+          </li>
+        </ul>
+      </div>
     </div>
   )
 }
