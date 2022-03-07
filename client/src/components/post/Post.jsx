@@ -1,4 +1,5 @@
-import './post.css'
+import './post.css';
+import { MoreVert } from "@material-ui/icons";
 
 export default function Post() {
   return (
@@ -10,7 +11,9 @@ export default function Post() {
             <span className="postUsername">Julia Emcy</span>
             <span className="postDate">5 mins ago</span>
           </div>
-          <div className="postTopRight"></div>
+          <div className="postTopRight">
+            <MoreVert/>
+          </div>
         </div>
         <div className="postCenter"></div>
         <div className="postBottom"></div>
