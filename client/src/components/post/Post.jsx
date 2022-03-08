@@ -15,7 +15,10 @@ export default function Post() {
             <MoreVert/>
           </div>
         </div>
-        <div className="postCenter"></div>
+        <div className="postCenter">
+          <span className="postText">Hey It's my first post:)</span>
+          <img className='postImg' src="/assets/post/1.jpeg" alt="" />
+        </div>
         <div className="postBottom"></div>
       </div>
     </div>
