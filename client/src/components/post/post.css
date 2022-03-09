@@ -48,3 +48,10 @@
   max-height: 500px;
   object-fit: contain;
 }
+
+.postBottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
